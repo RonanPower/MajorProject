@@ -1,0 +1,16 @@
+Colors
+
+
+BG: #333333
+Navbar BG: #1A1A1A
+Navbar Active: #FF9600
+Navbar Font Color: #808080
+Navbar Active Font Color: #FFFFFF
+Title Fonts: #808080
+
+
+Font: Corbel Regular Size:24 pt
+Logo Font Myriad Variable Concept Bold Size: 48 pt
+Titles Font: Myriad Variable Concept Light size: 42 pt
+Blurb Font: Heading: Myriad Variable Concept Reg 24 pt
+	    Paragraph: 18 pt
